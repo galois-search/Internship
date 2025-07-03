@@ -1,0 +1,4 @@
+sequence no : S1,power_x0 : 24,power_mu : 247,period : 28,acr_val : 4,balance : -2,sequence : 1010100001100011111101001101, decimation no : d1
+sequence no : S1,power_x0 : 24,power_mu : 247,period : 28,acr_val : 4,balance : -2,sequence : 1001011111100011000010101101, decimation no : d3
+sequence no : S2,power_x0 : 31,power_mu : 129,period : 28,acr_val : 4,balance : 2,sequence : 1100100101011110011100000010, decimation no : d1
+sequence no : S2,power_x0 : 31,power_mu : 129,period : 28,acr_val : 4,balance : 2,sequence : 1001101000000111001111010100, decimation no : d3

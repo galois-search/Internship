@@ -1,0 +1,1 @@
+sequence no : S1,power_x0 : 27,power_mu : 17,period : 2,acr_val : 2,balance : 0,sequence : 01, decimation no : d1

@@ -1,0 +1,2 @@
+sequence no : S1,power_x0 : 34,power_mu : 241,period : 5,acr_val : 1,balance : -3,sequence : 11101, decimation no : d1
+sequence no : S2,power_x0 : 49,power_mu : 22,period : 5,acr_val : 1,balance : 3,sequence : 01000, decimation no : d1

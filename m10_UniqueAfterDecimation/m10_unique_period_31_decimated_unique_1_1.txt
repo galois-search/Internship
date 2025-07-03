@@ -1,0 +1,12 @@
+sequence no : S1,power_x0 : 16,power_mu : 248,period : 31,acr_val : 1,balance : 1,sequence : 0100110001111001010110111010000, decimation no : d1
+sequence no : S1,power_x0 : 16,power_mu : 248,period : 31,acr_val : 1,balance : 1,sequence : 0001110010001010111101101001100, decimation no : d3
+sequence no : S1,power_x0 : 16,power_mu : 248,period : 31,acr_val : 1,balance : 1,sequence : 0111100110110000010001110101001, decimation no : d5
+sequence no : S1,power_x0 : 16,power_mu : 248,period : 31,acr_val : 1,balance : 1,sequence : 0000011001011011110101000100111, decimation no : d7
+sequence no : S1,power_x0 : 16,power_mu : 248,period : 31,acr_val : 1,balance : 1,sequence : 0110011110100101011100010000011, decimation no : d11
+sequence no : S1,power_x0 : 16,power_mu : 248,period : 31,acr_val : 1,balance : 1,sequence : 0100000101110110101001111000110, decimation no : d15
+sequence no : S4,power_x0 : 30,power_mu : 244,period : 31,acr_val : 1,balance : -1,sequence : 1001001100001011010100011101111, decimation no : d1
+sequence no : S4,power_x0 : 30,power_mu : 244,period : 31,acr_val : 1,balance : -1,sequence : 1110110011100001101010010001011, decimation no : d3
+sequence no : S4,power_x0 : 30,power_mu : 244,period : 31,acr_val : 1,balance : -1,sequence : 1001011001111100011011101010000, decimation no : d5
+sequence no : S4,power_x0 : 30,power_mu : 244,period : 31,acr_val : 1,balance : -1,sequence : 1110100010010101100001110011011, decimation no : d7
+sequence no : S4,power_x0 : 30,power_mu : 244,period : 31,acr_val : 1,balance : -1,sequence : 1000010101110110001111100110100, decimation no : d11
+sequence no : S4,power_x0 : 30,power_mu : 244,period : 31,acr_val : 1,balance : -1,sequence : 1111101110001010110100001100100, decimation no : d15

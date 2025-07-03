@@ -1,0 +1,6 @@
+sequence no : S1,power_x0 : 56,power_mu : 236,period : 6,acr_val : 2,balance : -2,sequence : 010111, decimation no : d1
+sequence no : S2,power_x0 : 23,power_mu : 7,period : 6,acr_val : 2,balance : 2,sequence : 011000, decimation no : d1
+sequence no : S3,power_x0 : 17,power_mu : 28,period : 6,acr_val : 2,balance : 0,sequence : 100101, decimation no : d1
+sequence no : S3,power_x0 : 17,power_mu : 28,period : 6,acr_val : 2,balance : 0,sequence : 110100, decimation no : d5
+sequence no : S4,power_x0 : 36,power_mu : 255,period : 6,acr_val : 2,balance : 2,sequence : 001010, decimation no : d1
+sequence no : S5,power_x0 : 17,power_mu : 74,period : 6,acr_val : 2,balance : -2,sequence : 110011, decimation no : d1

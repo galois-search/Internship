@@ -1,0 +1,12 @@
+sequence no : S1,power_x0 : 62,power_mu : 226,period : 63,acr_val : 1,balance : -1,sequence : 100100111000101111001010001100001000001111110101011001101110110, decimation no : d1
+sequence no : S1,power_x0 : 62,power_mu : 226,period : 63,acr_val : 1,balance : -1,sequence : 100110001110101111110110100010000101100101010010011110000011011, decimation no : d5
+sequence no : S1,power_x0 : 62,power_mu : 226,period : 63,acr_val : 1,balance : -1,sequence : 101000110011110111010110100110110001001000011100000101111110010, decimation no : d11
+sequence no : S1,power_x0 : 62,power_mu : 226,period : 63,acr_val : 1,balance : -1,sequence : 101100101101011101111001100010101001111110100000111000010010001, decimation no : d13
+sequence no : S1,power_x0 : 62,power_mu : 226,period : 63,acr_val : 1,balance : -1,sequence : 100100101010011010000100010110111111010111000110011101100000111, decimation no : d23
+sequence no : S1,power_x0 : 62,power_mu : 226,period : 63,acr_val : 1,balance : -1,sequence : 100010100111101000111001001011011101100110101011111100000100001, decimation no : d31
+sequence no : S4,power_x0 : 61,power_mu : 46,period : 63,acr_val : 1,balance : 1,sequence : 001100010011111000011011010101100101111011101001000000101000111, decimation no : d1
+sequence no : S4,power_x0 : 61,power_mu : 46,period : 63,acr_val : 1,balance : 1,sequence : 001011111000111101101110010011010010100010000110011101010110000, decimation no : d5
+sequence no : S4,power_x0 : 61,power_mu : 46,period : 63,acr_val : 1,balance : 1,sequence : 011110111110000001010100110010001001011011000111010000110101110, decimation no : d11
+sequence no : S4,power_x0 : 61,power_mu : 46,period : 63,acr_val : 1,balance : 1,sequence : 010001001100101010000001111101111001110101100001011100011011010, decimation no : d13
+sequence no : S4,power_x0 : 61,power_mu : 46,period : 63,acr_val : 1,balance : 1,sequence : 010010110010011101101111000111110100000011010101110011000010001, decimation no : d23
+sequence no : S4,power_x0 : 61,power_mu : 46,period : 63,acr_val : 1,balance : 1,sequence : 001111100100011001110001010000001001011101111010011010101101100, decimation no : d31

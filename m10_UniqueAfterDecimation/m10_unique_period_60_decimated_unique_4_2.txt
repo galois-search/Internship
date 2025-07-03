@@ -1,0 +1,4 @@
+sequence no : S1,power_x0 : 32,power_mu : 499,period : 60,acr_val : 4,balance : 2,sequence : 010011100010101001010000100110000110110111111100000101110011, decimation no : d1
+sequence no : S1,power_x0 : 32,power_mu : 499,period : 60,acr_val : 4,balance : 2,sequence : 001010100011100101100111010000011111110110110000110010000101, decimation no : d7
+sequence no : S2,power_x0 : 30,power_mu : 499,period : 60,acr_val : 4,balance : -2,sequence : 101100111100100100000001111101000110010110001110101011010111, decimation no : d1
+sequence no : S2,power_x0 : 30,power_mu : 499,period : 60,acr_val : 4,balance : -2,sequence : 110000000100100111100110111101011010101110001101001100010111, decimation no : d7
