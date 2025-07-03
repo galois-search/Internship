@@ -1,0 +1,2 @@
+power_x0 : 1,power_mu : 506,period : 19,acr_val : 3,balance : 5,sequence : 0000100001010011011
+power_x0 : 93,power_mu : 671,period : 19,acr_val : 3,balance : -5,sequence : 1111011110101100100

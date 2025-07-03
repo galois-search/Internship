@@ -1,0 +1,12 @@
+power_x0 : 16,power_mu : 248,period : 31,acr_val : 1,balance : 1,sequence : 0100110001111001010110111010000
+power_x0 : 44,power_mu : 234,period : 31,acr_val : 1,balance : 1,sequence : 0000110110011110100101011100010
+power_x0 : 4,power_mu : 254,period : 31,acr_val : 1,balance : 1,sequence : 0111010100101111001101100000100
+power_x0 : 30,power_mu : 244,period : 31,acr_val : 1,balance : -1,sequence : 1001001100001011010100011101111
+power_x0 : 17,power_mu : 17,period : 31,acr_val : 1,balance : 1,sequence : 1110110100110000011100100010101
+power_x0 : 7,power_mu : 11,period : 31,acr_val : 1,balance : -1,sequence : 0001101110101000010010110011111
+power_x0 : 23,power_mu : 21,period : 31,acr_val : 1,balance : -1,sequence : 0011011111010001001010110000111
+power_x0 : 49,power_mu : 25,period : 31,acr_val : 1,balance : 1,sequence : 0101110110101001111000110010000
+power_x0 : 61,power_mu : 49,period : 31,acr_val : 1,balance : -1,sequence : 0011111011100010101101000011001
+power_x0 : 37,power_mu : 41,period : 31,acr_val : 1,balance : -1,sequence : 1101100111000011010100100010111
+power_x0 : 7,power_mu : 145,period : 31,acr_val : 1,balance : -1,sequence : 0100001010111011000111110011010
+power_x0 : 13,power_mu : 146,period : 31,acr_val : 1,balance : 1,sequence : 0100010011100000110010110111101
