@@ -3,7 +3,7 @@
 This Repository includes files to generate PRN codes and generate some set of sequences using Decimation and Find all the Unique Sequences from the set
 
 # File Description
-- `MainCode_V11_02_07_2025.py` is the final code file to generate the sequences with given threshold in `10.txt` file which are lenght of sequence, acr value and balance.
+- `MainCode_V11_02_07_2025.py` is the final code file to generate the sequences with given threshold in `10.txt` file which are length of sequence, acr value and balance.
 - `10.txt` is for m = 10.
 - `Decimation_V02.py` is to generate the Decimated Sequence set.
 - `Filter_input_data_V02.py` is to apply the threshold for acr and balance values.
